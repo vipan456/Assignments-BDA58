@@ -1,2 +1,2 @@
 # Assignments-BDA58
-Upload Assignments - Naming - Week No. - Assignment Number
+Upload Assignments -> Coder Name - Week No. - Assignment Number
